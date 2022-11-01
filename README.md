@@ -10,6 +10,7 @@
   <img align="center" alt="CSS-lang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="PYTHON-lang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="ARDUINO-lang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="C++-lang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
   ##
@@ -19,5 +20,3 @@
   <a href="" target="_blank"></a>
   <a href="" target="_blank"></a>
 </div>
-<br>
-![Snake animation](https://github.com/rafaballerini/RafaelBrantPr/blob/output/github-contribution-grid-snake.svg)  
